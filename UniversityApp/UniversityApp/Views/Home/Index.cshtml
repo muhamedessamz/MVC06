@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4 fw-bold text-primary">Welcome to UniversityApp 🎓</h1>
+    <p class="lead">Manage Students, Courses, and Departments easily with our system.</p>
+
+    <div class="mt-4">
+        <a asp-controller="Student" asp-action="ShowAll" class="btn btn-lg btn-success me-3">
+            <i class="fa-solid fa-users me-2"></i> Manage Students
+        </a>
+
+        <a asp-controller="Course" asp-action="Index" class="btn btn-lg btn-warning me-3">
+            <i class="fa-solid fa-book me-2"></i> Manage Courses
+        </a>
+
+        <a asp-controller="Department" asp-action="ShowAll" class="btn btn-lg btn-info">
+            <i class="fa-solid fa-building-columns me-2"></i> Manage Departments
+        </a>
+    </div>
+</div>

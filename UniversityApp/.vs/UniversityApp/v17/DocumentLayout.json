@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\courseformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\courseformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\DEPI\\Day05MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170313_MakeMgrNameNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\course\\studentcourseresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\course\\studentcourseresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\studentcourseresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\studentcourseresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\studentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\studentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\models\\viewmodels\\departmentdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\models\\viewmodels\\departmentdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\migrations\\20251111174008_initall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\migrations\\20251111174008_initall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|c:\\users\\user\\desktop\\day06mvc\\universityapp\\universityapp\\migrations\\20251111170534_makemgrnamenullable_fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD9D7AB-AAA3-4598-96AE-1B499E481096}|UniversityApp\\UniversityApp.csproj|solutionrelative:universityapp\\migrations\\20251111170534_makemgrnamenullable_fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251111174008_InitAll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111174008_InitAll.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Migrations\\20251111174008_InitAll.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111174008_InitAll.cs",
+              "RelativeToolTip": "UniversityApp\\Migrations\\20251111174008_InitAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:40:08.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:47:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Department.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:52:40.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "UniversityApp\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:42:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\CourseFormViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\CourseFormViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\CourseFormViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\CourseFormViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:41:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T22:29:24.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251111170534_MakeMgrNameNullable_Fixed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170534_MakeMgrNameNullable_Fixed.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Migrations\\20251111170534_MakeMgrNameNullable_Fixed.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170534_MakeMgrNameNullable_Fixed.cs",
+              "RelativeToolTip": "UniversityApp\\Migrations\\20251111170534_MakeMgrNameNullable_Fixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:05:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:45:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Course.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:26:11.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UniversityApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:46:31.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:44:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:45:57.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251111170313_MakeMgrNameNullable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEPI\\Day05MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170313_MakeMgrNameNullable.cs",
+              "RelativeDocumentMoniker": "..\\..\\DEPI\\Day05MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170313_MakeMgrNameNullable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEPI\\Day05MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170313_MakeMgrNameNullable.cs",
+              "RelativeToolTip": "..\\..\\DEPI\\Day05MVC\\UniversityApp\\UniversityApp\\Migrations\\20251111170313_MakeMgrNameNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:03:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentCourseResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\StudentCourseResult.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Course\\StudentCourseResult.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Course\\StudentCourseResult.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Course\\StudentCourseResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:48:28.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentCourseResultVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentCourseResultVM.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\StudentCourseResultVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentCourseResultVM.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\StudentCourseResultVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:42:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Program.cs",
+              "RelativeToolTip": "UniversityApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:32:59.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:32:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:31:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T16:30:47.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\appsettings.json",
+              "RelativeToolTip": "UniversityApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T22:47:50.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Department\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Department\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T22:47:06.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Department\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\ShowAll.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Department\\ShowAll.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T22:32:07.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Department\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T22:47:00.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T22:47:13.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:52:48.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Teacher.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:52:42.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\Student.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:10:10.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StuCrsRes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\StuCrsRes.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\StuCrsRes.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\StuCrsRes.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\StuCrsRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:52:41.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:12:05.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T00:41:25.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:51:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\StudentListViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentListViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\StudentListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:36:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentFormViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\StudentFormViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\StudentFormViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\StudentFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:32:48.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:25:43.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\DepartmentDetailsVM.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Models\\ViewModels\\DepartmentDetailsVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Models\\ViewModels\\DepartmentDetailsVM.cs",
+              "RelativeToolTip": "UniversityApp\\Models\\ViewModels\\DepartmentDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:23:05.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowLoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:11:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UniversityApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:10:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "UniversityApp\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "UniversityApp\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:20:06.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\ShowDetails.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:47:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\ShowAll.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\ShowAll.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:46:39.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:46:23.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:45:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T12:01:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "UniversityApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "UniversityApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-02T22:09:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UniversityApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UniversityApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-02T22:09:08.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day06MVC\\UniversityApp\\UniversityApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "UniversityApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T11:46:07.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

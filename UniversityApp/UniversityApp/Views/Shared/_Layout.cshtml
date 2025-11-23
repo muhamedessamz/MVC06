@@ -1,0 +1,84 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UniversityApp</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body class="app-body">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand d-flex align-items-center" asp-controller="Student" asp-action="ShowAll">
+                <i class="fa-solid fa-school fa-lg me-2"></i>
+                <span>UniversityApp</span>
+            </a>
+            <button class="btn btn-sm btn-outline-light d-lg-none" id="sidebarToggle">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Student" asp-action="ShowAll">Students</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Department" asp-action="Index">Departments</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="app-container d-flex">
+        <aside id="sidebar" class="sidebar bg-light border-end">
+            <div class="sidebar-header py-3 px-3 d-flex align-items-center">
+                <div class="me-2 rounded-circle bg-primary text-white p-2" style="width:44px;height:44px;display:grid;place-items:center">
+                    <i class="fa-solid fa-user"></i>
+                </div>
+                <div>
+                    <div class="fw-bold">Admin</div>
+                    <div class="small text-muted">university</div>
+                </div>
+            </div>
+            <ul class="nav flex-column px-2">
+                <li class="nav-item">
+                    <a class="nav-link d-flex align-items-center" asp-controller="Student" asp-action="ShowAll">
+                        <i class="fa-solid fa-users me-2"></i> Students
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link d-flex align-items-center" asp-controller="Department" asp-action="Index">
+                        <i class="fa-solid fa-building-columns me-2"></i> Departments
+                    </a>
+                </li>
+            </ul>
+        </aside>
+
+        <main class="content p-4">
+            <div class="container-fluid">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h1 class="h4 mb-0">@ViewData["Title"]</h1>
+                    <div></div>
+                </div>
+                @RenderBody()
+            </div>
+            <footer class="mt-5 text-center text-muted small">
+                © @DateTime.Now.Year UniversityApp
+            </footer>
+        </main>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

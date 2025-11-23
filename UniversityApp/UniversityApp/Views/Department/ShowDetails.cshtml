@@ -1,0 +1,19 @@
+﻿@model UniversityApp.ViewModels.DepartmentDetailsVM
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h2>@Model.DepartmentName</h2>
+
+<p><strong>Department State:</strong> @Model.DepartmentState</p>
+
+<label>Students older than 25:</label>
+<select class="form-control">
+    @foreach (var student in Model.StudentNamesAbove25)
+    {
+        <option>@student</option>
+    }
+</select>
+
+<a asp-controller="Department" asp-action="ShowAll" class="btn btn-secondary mt-3">Back</a>
